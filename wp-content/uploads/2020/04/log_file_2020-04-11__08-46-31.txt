@@ -1,0 +1,180 @@
+
+---Downloaded files---
+The import files for: Techmarket were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wordpress
+Data file = /Users/maitruongson/Working/code_project/wordpress/wp-content/themes/techmarket/assets/dummy-data/techmarket/dummy-data.xml
+Widget file = /Users/maitruongson/Working/code_project/wordpress/wp-content/themes/techmarket/assets/dummy-data/techmarket/widgets.wie
+Customizer file = not defined!
+Redux files:
+techmarket_options -> /Users/maitruongson/Working/code_project/wordpress/wp-content/themes/techmarket/assets/dummy-data/techmarket/redux-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "earPhone-4" (Đa phương tiện)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Tìm kiếm - No Title - Widget already exists
+Bài viết mới - No Title - Widget already exists
+Phản hồi gần đây - No Title - Widget already exists
+Lưu trữ - No Title - Widget already exists
+Chuyên mục - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Shop Sidebar 1 : 
+
+Techmarket Product Categories - No Title - Imported
+Techmarket Product Filter - Filters - Imported
+Techmarket Products Carousel - Latest Products - Imported
+
+Shop Sidebar 2 : 
+
+Techmarket Products Carousel - Featured Products - Imported
+
+Product Filters : 
+
+Filter Products by Price - Filter by price - Imported
+Filter Products by Attribute - Brands - Imported
+Filter Products by Attribute - Color - Imported
+
+Home Sidebar : 
+
+Techmarket Banner - &lt;strong&gt;1000 mAh&lt;/strong&gt;&lt;br &gt;&lt;span&gt;Power Bank Pro&lt;/span&gt; - Imported
+Techmarket Banner - New Arrivals&lt;br&gt; in&lt;strong&gt; Accesories&lt;/strong&gt;&lt;br&gt; at Best prices - Imported
+Techmarket Banner - Catch Best&lt;br&gt;&lt;strong&gt;Deals&lt;/strong&gt; on &lt;br&gt;the Curved &lt;br&gt;Soundbars - Imported
+Techmarket Features Block - No Title - Imported
+Techmarket Posts Carousel - From the Blog - Imported
+Techmarket Products Carousel - Latest Products - Imported
+Techmarket Poster - &lt;strong&gt;Listen in&lt;/strong&gt; Brilliant&lt;br&gt; Color via  - Imported
+Techmarket Products Carousel - Latest Products - Imported
+
+Footer Widgets : 
+
+Thanh điều hướng - Find it Fast - Imported
+Thanh điều hướng -   - Imported
+Thanh điều hướng - Customer Care - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: techmarket_options finished successfully!
+
+---pt-ocdi/after_import---
+
